@@ -1,7 +1,7 @@
 ### Function
 
 1. Change the MAC address everytime after you power up Windows to a new and random one automatically and silently. 
-2. Can detect the given permission and request admin permission from users automatically when it's needed, rather than throwing out a failure.
+2. Can detect the given permission and request admin permission from user automatically when it's needed, rather than throwing out a failure.
 
 well, of course you can change it anytime by running the .py file...
 
